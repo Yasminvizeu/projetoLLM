@@ -1,8 +1,7 @@
 import pandas as pd
 import numpy as np
 
-texto = {'texto':['voce esta aprendendo transformer',
-                  'talvez voce esteja começando a gostar',
+texto = {'texto':['estamos aprendendo transformers',
                   ]}
 
 # Conversão
